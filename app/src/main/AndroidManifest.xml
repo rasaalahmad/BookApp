@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bookapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BookApp">
+        <activity
+            android:name=".AlphabetZ"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetY"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetX"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetW"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetV"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetU"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetT"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetS"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetR"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetQ"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetP"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetO"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetN"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetM"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetL"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetK"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetJ"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetI"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetH"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetG"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetF"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetE"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetD"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetC"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetB"
+            android:exported="false" />
+        <activity
+            android:name=".AlphabetA"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

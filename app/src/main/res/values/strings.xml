@@ -57,5 +57,13 @@
     <string name="yoyo">Y for Yoyo</string>
     <string name="zebra">Z for Zebra</string>
 
+
+
+    <string name="author">Author:   Rasaal Ahmad</string>
+    <string name="rollnumber">Roll#:   19L-0925</string>
+
+
+
+
     <string name="next_msg">Next</string>
 </resources>
